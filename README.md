@@ -1,4 +1,4 @@
-# Introduction to NLP Course Notebooks
+# Introduction to NLP Course Notebooks by AKG
 
 Welcome to the **Introduction to NLP** course repository! 
 
